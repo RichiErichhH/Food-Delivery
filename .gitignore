@@ -1,0 +1,27 @@
+# Node artifact files
+node_modules/ 
+dist/
+
+# Package files
+*.jar
+
+# Maven
+target/
+dist/
+
+# Application
+*.app
+*.exe
+*.war
+
+# Large media files
+*.mp4
+*.tiff
+*.avi
+*.mov
+*.mdb
+
+*.babelrc
+.parcel-cache
+
+
