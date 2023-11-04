@@ -11,6 +11,7 @@ function filterData(searchText,restaurants){
 }
 
 const Body = () =>{
+    
     const [searchText,setSearch]=useState("");
     const[restaurants,setRestaurants]=useState(restarautList);
     return(
